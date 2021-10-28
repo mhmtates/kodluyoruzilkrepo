@@ -1,4 +1,6 @@
 # kodluyoruzilkrepo
+
+ ## Mehmet Ateş Özateş
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ------------
 -------
@@ -6,4 +8,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ------
 ------
 
-**Gönderen:Mehmet Ateş Özateş**
+
